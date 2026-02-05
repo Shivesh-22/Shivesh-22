@@ -1,7 +1,6 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Shivesh+Singh;AI+%26+ML+Enthusiast;Building+Intelligent+Systems+with+Data+and+Vision" />
-</p>
+<h1 align="center">Hi 👋, I'm Shivesh Singh</h1>
+<h3 align="center">AI & ML Enthusiast | Building intelligent systems with data and vision</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -96,7 +95,3 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shivesh-22/Shivesh-22/output/github-contribution-grid-snake.svg" />
-</p>
