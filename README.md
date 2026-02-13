@@ -12,7 +12,6 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **Machine Learning Model for Fraud Claim Detection**
 - 🌱 I’m currently learning **Deep Learning, MLOps and Computer Vision**
-- 🤝 I’m looking for help with [AI_Virtual_Mouse](https://github.com/Shivesh-22/AI_Virtual_Mouse)
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/Shivesh-22?tab=repositories)
 - 💬 Ask me about **Python, SQL, AI, ML, RAG, Langchain, Computer Vision and Azure**
 - 📫 Reach me at **shiveshsingh212@gmail.com**
